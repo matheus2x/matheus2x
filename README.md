@@ -16,4 +16,4 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matheus2x&show_icons=true&hide_border=true" />
+###### :fox_face:
