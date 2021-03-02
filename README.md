@@ -11,7 +11,7 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/matheus2x" target="_blank"> <img src="https://svgshare.com/i/Qx0.svg" alt="linkedin-badge" height="32px" style="vertical-align:top; margin:4px"/></a> <a href="https://www.instagram.com/foxperks/" target="_blank"> <img src="https://svgshare.com/i/Qxr.svg" alt="instagram-badge" height="32px" style="vertical-align:top; margin:4px"/></a> <a href="https://steamcommunity.com/id/foxperks" target="_blank"> <img src="https://svgshare.com/i/Qwc.svg" alt="steam-badge" height="32px" style="vertical-align:top; margin:4px"/></a>
+<a href="https://www.linkedin.com/in/matheus2x" target="_blank"> <img src="https://svgshare.com/i/Qx0.svg" alt="linkedin-badge" height="32px" style="vertical-align:top; margin:4px"/></a> <a href="https://www.instagram.com/matheus.h_alves/" target="_blank"> <img src="https://svgshare.com/i/Qxr.svg" alt="instagram-badge" height="32px" style="vertical-align:top; margin:4px"/></a> <a href="https://steamcommunity.com/id/foxperks" target="_blank"> <img src="https://svgshare.com/i/Qwc.svg" alt="steam-badge" height="32px" style="vertical-align:top; margin:4px"/></a>
 
 ---
 
