@@ -7,7 +7,7 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 
 ---
 
-### Currently learning 🛠
+### Techs and tools 🛠
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0b2147?&logo=typescript&logoColor=FFF)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.js-0b2147?&logo=node.js&logoColor=FFF)&nbsp;
@@ -29,7 +29,7 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 ![Windows](https://img.shields.io/badge/-Windows-20232A?&logo=Windows&logoColor=FFF)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VS%20Code-20232A?&logo=visual%20studio%20code&logoColor=FFF)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-20232A?&logo=Figma&logoColor=FFF)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-20232A?&logo=Trello&logoColor=FFF)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-20232A?&logo=jira&logoColor=FFF)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-20232A?&logo=Miro&logoColor=FFF)&nbsp;
 
 ---
