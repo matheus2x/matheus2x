@@ -34,6 +34,13 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 
 ---
 
+<a href=".">
+  <img align="center" style="height: 193px;" src="https://github-readme-stats-gamma-green.vercel.app/api?username=matheus2x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</a>
+<a href=".">
+  <img align="center" style="height: 193px;" src="https://github-readme-stats-gamma-green.vercel.app/api/top-langs/?username=matheus2x&layout=compact&langs_count=8&theme=dark" />
+</a>
+
 ### Connect with me :speech_balloon:
 
 <a href="https://www.linkedin.com/in/matheus2x" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="linkedin-badge" style="vertical-align:top; margin:4px"/></a> <a href="https://www.instagram.com/matheus.h_alves/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white" alt="instagram-badge" style="vertical-align:top; margin:4px"/></a> <a href="https://steamcommunity.com/id/foxperks" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?&logo=steam&logoColor=white" alt="steam-badge" style="vertical-align:top; margin:4px"/></a>
