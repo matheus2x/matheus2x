@@ -34,12 +34,12 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 
 ---
 
-<div style="width: 100vw;">
+<!-- <div style="width: 100vw;">
   <a href="https://github.com/matheus2x">
     <img height="180em" src="https://github-readme-stats-gamma-green.vercel.app/api?username=matheus2x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-gamma-green.vercel.app/api/top-langs/?username=matheus2x&layout=compact&langs_count=8&theme=dark" />
   </a>
-</div>
+</div> -->
 
 
 ### Connect with me :speech_balloon:
