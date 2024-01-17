@@ -3,7 +3,7 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 
 - Coding is my passion :heart_eyes:
 - My favorite animal is the fox :fox_face:
-- I'm very fan of games, comics/manga and anime culture :nerd_face:
+- Anime, games and manga/comic enjoyer 💪🤓
 
 ---
 
@@ -20,7 +20,6 @@ I'm a nice guy from Brazil who likes the world of programming and computer scien
 ![Jest](https://img.shields.io/badge/-Jest-0b2147?&logo=Jest&logoColor=FFF)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker&logoColor=FFF)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=mysql&logoColor=FFF)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?&logo=postgresql&logoColor=FFF)&nbsp;
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?&logo=amazon%20aws&logoColor=FFF)&nbsp;
